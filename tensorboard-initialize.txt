@@ -1,0 +1,2 @@
+tensorboard --logdir="/Users/choyale/Desktop/embarc_project/log" --host=127.0.0.1
+
